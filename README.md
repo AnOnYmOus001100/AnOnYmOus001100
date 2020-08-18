@@ -1,6 +1,5 @@
 # AnOnYmOus001100
 
-## Name: AnOnYmOus001100
 ### Interests: *Coding, Chess, Puzzles, Systems, Reading* and *Learning new stuffs.*
 ### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Hacking*.
 ### Profession: Web Developer, App Developer, IT Support Specialist, Programmer, Software Engineer.
@@ -8,9 +7,6 @@
 ### Mantra: Learn, Understand and Apply(LUA).
 
 ### Hello 👋
-
-<!--
-**AnOnYmOus001100/AnOnYmOus001100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Coding is Next to a SuperPower.
--->
