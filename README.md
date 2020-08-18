@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on Web Development, Android Development and Machine Learning.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Open Source Projects.
-<! -- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: Programming, App Development, Web Development or Cyber Security. 
 - 📫 How to reach me: I live on the world, so it is possible
 - 😄 Pronouns: How? and Why?
