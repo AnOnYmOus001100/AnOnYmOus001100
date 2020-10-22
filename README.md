@@ -1,5 +1,12 @@
 # AnOnYmOus001100
 
+<a href="https://dev.to/anonymous001100">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AnOnYmOus001100's DEV Profile" height="30" width="30">
+</a>
+<a href="https://dev.to/anonymous001100">
+  <i class="fab fa-dev" title="anonymous001100's DEV Profile"></i>
+</a>
+
 ### Interests: *Coding, Chess, Puzzles, Systems, Reading* and *Learning new stuffs.*
 ### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Hacking*.
 ### Profession: Web Developer, App Developer, IT Support Specialist, Programmer, Software Engineer.
@@ -17,9 +24,4 @@
 - ⚡ Fun fact: Coding is Next to a SuperPower.
 
 
-<a href="https://dev.to/anonymous001100">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AnOnYmOus001100's DEV Profile" height="30" width="30">
-</a>
-<a href="https://dev.to/anonymous001100">
-  <i class="fab fa-dev" title="anonymous001100's DEV Profile"></i>
-</a>
+
