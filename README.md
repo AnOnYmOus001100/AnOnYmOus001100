@@ -1,4 +1,8 @@
 # AnOnYmOus001100
+<a href="https://dev.to/anonymous001100">
+  <i class="fab fa-dev" title="anonymous001100's DEV Profile"></i>
+</a>
+[![AnOnYmOus001100's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/anonymous001100)
 
 ### Interests: *Coding, Chess, Puzzles, Systems, Reading* and *Learning new stuffs.*
 ### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Hacking*.
