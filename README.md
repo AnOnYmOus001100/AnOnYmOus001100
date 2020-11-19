@@ -15,11 +15,11 @@
 
 ### Hello 👋
 
-- 🔭 I’m currently working on Web Development, Android Development and Machine Learning.
+- 🔭 I’m currently working on Web Development, Software Development and other fun stuffs
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about: Programming, App Development, Web Development or Cyber Security. 
-- 📫 How to reach me: I live on the world, so it is possible
+- 📫 How to reach me: I live on the earth.
 - 😄 Pronouns: How? and Why?
 - ⚡ Fun fact: Coding is Next to a SuperPower.
 
