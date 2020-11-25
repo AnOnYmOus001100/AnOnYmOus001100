@@ -6,6 +6,7 @@
 <a href="https://dev.to/anonymous001100">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AnOnYmOus001100's DEV Profile" height="30" width="30">
 </a>
+
 ### I am a Computer Science Enthusiast
 ### Interests: *Coding, Chess, Puzzles, Systems, Reading* and *Learning new stuffs.*
 ### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Hacking*.
