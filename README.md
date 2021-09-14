@@ -8,16 +8,15 @@
 </a>
 
 ### I am a Computer Science and Technology Enthusiast.
-### Interests: *Coding, Chess, Puzzles, Systems* and *Learning new stuffs.*
-### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Hacking*.
-### Profession: Web Developer, App Developer, IT Support Specialist, Programmer, Software Engineer.
+### Interests: *Computers, Networking, CyberSecurity,  Ethical Hacking* and *Learning new stuffs.*
+### Work: *Web Development*(HTML, CSS, Javascript), *Programming*(C, C++, Python, Java), *Android App Development, Operating Systems*(Linux, Windows), *Artificial Intelligence, CyberSecurity, Hardware*(PC's, Gaming Consoles, Single Board Computers), *Ethical Hacking*
 ### Life Goal: To make a difference to World through Computer Science.
 ### Mantra: Learn, Understand and Apply(LUA).
 
 ### Hello 👋
 
-- 🔭 I’m currently working on Web Development, Software Development and other fun stuffs
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on Cyber Security and Assembly x64 language
+- 🌱 I’m currently learning about Computer Science ,Technology, Ethical Hacking, Reverse Engineering, Malware Analysis
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about: Programming, App Development, Web Development or Cyber Security. 
 - 📫 How to reach me: I live on the earth, so it is possible.
