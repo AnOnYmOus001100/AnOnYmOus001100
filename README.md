@@ -16,7 +16,7 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on Cyber Security and Assembly x64 language
-- 🌱 I’m currently learning about Computer Science ,Technology, Ethical Hacking, Reverse Engineering, Malware Analysis
+- 🌱 I’m currently learning about Computer Science , Ethical Hacking, Reverse Engineering, Malware Analysis etc.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about: Programming, App Development, Web Development or Cyber Security. 
 - 📫 How to reach me: I live on the earth, so it is possible.
