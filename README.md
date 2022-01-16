@@ -7,7 +7,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AnOnYmOus001100's DEV Profile" height="30" width="30">
 </a>
 
- <script src="https://tryhackme.com/badge/580294"></script>
+
+<script src="https://tryhackme.com/badge/580294"></script>
+
 <a href="https://tryhackme.com/p/anonymous001100" >
  <strong>TryHackMe</strong>
 </a>
