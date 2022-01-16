@@ -1,7 +1,5 @@
 # AnOnYmOus001100
 
-<script src="https://tryhackme.com/badge/580294"></script>
-
 <a href="https://dev.to/anonymous001100">
   <i class="fab fa-dev" title="anonymous001100's DEV Profile"></i>
 </a>
@@ -9,7 +7,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="AnOnYmOus001100's DEV Profile" height="30" width="30">
 </a>
 
-
+<script 
+        src="https://tryhackme.com/badge/580294">
+</script>
 <a href="https://tryhackme.com/p/anonymous001100" >
  <strong>TryHackMe</strong>
 </a>
