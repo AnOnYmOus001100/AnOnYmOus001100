@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://tryhackme.com/p/anonymous001100" >
-<img src="https://tryhackme-badges.s3.amazonaws.com/anonymous001100.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/anonymous001100.png" alt="Your Image Badge" />
 </a>
 
 ### I am a Computer Science and Technology Enthusiast.
